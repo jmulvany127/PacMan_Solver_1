@@ -1,4 +1,4 @@
-# PacMan Solver Agent - Project 1 - KU Leuven Yer 4
+# PacMan Solver Agent - Project 1 - KU Leuven Year 4
 This project involved the use of the algorithms below to create a pacman agent capable of passing a series of pacman levels without adversarial agents.
 
 Depth-first search
